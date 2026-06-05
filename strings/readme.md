@@ -8,3 +8,6 @@
 
 ## count prefixes
 ![alt text](image.png)
+
+## capitalize strings
+![alt text](image-1.png)
