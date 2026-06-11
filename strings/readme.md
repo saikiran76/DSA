@@ -23,3 +23,6 @@
 ![alt text](screencapture-classroom-sheryians-platform-coding-problem-2026-06-10-14_09_09.png)
 
 - Hopefully, there shouldn't be these type of weird problems god! 🤮🤷‍♀️🤦‍♂️🥲
+
+## Maximum words problem
+![alt text](image-2.png)
