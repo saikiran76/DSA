@@ -26,3 +26,6 @@
 
 ## Maximum words problem
 ![alt text](image-2.png)
+
+## sort words problem
+![alt text](image-3.png)
