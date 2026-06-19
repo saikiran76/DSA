@@ -8,3 +8,6 @@ Looking at the first solution (from /image_rotation.js)
 | Is a new matrix allocated?              | ❌ No   |
 | Is it considered an in-place algorithm? | ❌ No   |
 | Extra space used?                       | O(N²)  |
+
+Well the solution is weak looking at the statistics :(
+![alt text](image.png)
