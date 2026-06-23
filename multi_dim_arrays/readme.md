@@ -5,3 +5,6 @@
 
 ### submission evaluation for the problem 1
 ![alt text](image-3.png)
+
+### Set zeroes problem
+![alt text](image-4.png)
