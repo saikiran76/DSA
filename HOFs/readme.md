@@ -1,0 +1,2 @@
+## csv processing
+Potential inefficiency: iterating over the CSV reader multiple times via reader and csvfile.seek may reset state unexpectedly. Also, map/filter on the reader without materializing may be fragile; ensure full traversal happens after resetting file pointer and using a fresh reader. Consider converting reader to a list once or re-reading properly.
