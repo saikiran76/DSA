@@ -40,3 +40,7 @@ s will contain at least one letter that appears twice.
 2 <= s.length <= 100
 s consists of lowercase English letters.
 s has at least one repeated letter.
+
+
+## Decode Message Problem
+![alt text](screencapture-leetcode-problems-decode-the-message-description-2026-07-14-13_33_17.png)
